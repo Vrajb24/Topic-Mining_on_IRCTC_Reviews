@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Vraj B**
 - Email: vrajb24@iitk.ac.in
 - Institution: IIT Kanpur
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [Vraj Patel](www.linkedin.com/in/vraj-patel-47a5ab1a4)
 - GitHub: [@Vrajb24](https://github.com/Vrajb24)
 
 ## 🙏 Acknowledgments
