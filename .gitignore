@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data files (keep essential)
+data/raw/
+data/cache/
+data/tokens/
+*.log
+*.csv
+
+# Large files
+*.h5
+*.hdf5
+*.pkl.gz
+*.zip
+*.tar.gz
+
+# Temporary
+*.tmp
+*.bak
+*~
+.~*
+
+# Secrets
+config.json
+credentials.json
+secrets.toml
+
+# Testing
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Documentation builds
+docs/_build/

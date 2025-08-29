@@ -1,0 +1,13 @@
+# Minimal requirements for deployment (dashboard-only)
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+plotly>=5.15.0
+sqlite3  # Built into Python
+pickle5>=0.0.11  # For loading models
+pathlib2>=2.3.7
+datetime  # Built into Python
+json  # Built into Python
+
+# Optional: for enhanced performance
+psutil>=5.9.0  # For system monitoring
