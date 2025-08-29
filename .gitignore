@@ -63,3 +63,6 @@ streamlit-deploy/
 # Documentation files (except README)
 *.md
 !README.md
+
+# MCP configuration
+mcp_server_config.json
