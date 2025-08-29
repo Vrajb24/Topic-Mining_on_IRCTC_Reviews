@@ -103,7 +103,7 @@ class IRCTCPipeline:
         try:
             # Run the full analysis script
             result = subprocess.run([
-                sys.executable, 'run_full_analysis.py'
+                sys.executable, 'scripts/run_full_analysis.py'
             ], capture_output=True, text=True, timeout=3600)  # 1 hour timeout
             
             if result.returncode == 0:

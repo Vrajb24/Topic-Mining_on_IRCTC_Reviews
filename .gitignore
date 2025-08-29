@@ -56,3 +56,6 @@ htmlcov/
 
 # Documentation builds
 docs/_build/
+
+# Deployment folder (separate repo)
+streamlit-deploy/

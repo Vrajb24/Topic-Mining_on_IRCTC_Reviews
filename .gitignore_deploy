@@ -1,0 +1,55 @@
+# Deployment .gitignore for Streamlit Cloud
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Large files to exclude
+*.log
+*.csv
+/data/raw/
+/data/processed/
+/data/cache/
+/data/tokens/
+/logs/
+/notebooks/
+/tests/
+/mcp_server/
+/nltk_data/
+
+# Keep only essential data
+!/data/reviews.db
+!/data/models/improved_topics.pkl
+!/data/analysis/root_cause_analysis.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Documentation files (not needed for deployment)
+/docs/
+*.md
+!README.md
+
+# Development files
+/src/scraping/
+/src/preprocessing/
+/src/api/
+run_*.py
+test_*.py
+setup_*.sh
+*.sh
+
+# Keep deployment essentials
+!streamlit_app.py
+!requirements.txt
+!.streamlit/

@@ -1,0 +1,68 @@
+{
+  "current_batch": 9,
+  "total_scraped": 90000,
+  "continuation_token": null,
+  "batch_history": [
+    {
+      "batch_num": 1,
+      "scraped": 5,
+      "saved": 5,
+      "timestamp": "2025-08-27T21:10:04.562672"
+    },
+    {
+      "batch_num": 1,
+      "scraped": 1,
+      "saved": 1,
+      "timestamp": "2025-08-27T21:23:59.513446"
+    },
+    {
+      "batch_num": 2,
+      "scraped": 9995,
+      "saved": 9995,
+      "timestamp": "2025-08-27T21:25:01.317899"
+    },
+    {
+      "batch_num": 3,
+      "scraped": 10000,
+      "saved": 10000,
+      "timestamp": "2025-08-27T21:26:04.811596"
+    },
+    {
+      "batch_num": 4,
+      "scraped": 10000,
+      "saved": 10000,
+      "timestamp": "2025-08-27T21:27:11.306377"
+    },
+    {
+      "batch_num": 5,
+      "scraped": 10000,
+      "saved": 10000,
+      "timestamp": "2025-08-27T21:28:21.497925"
+    },
+    {
+      "batch_num": 6,
+      "scraped": 10000,
+      "saved": 9999,
+      "timestamp": "2025-08-27T21:29:36.182798"
+    },
+    {
+      "batch_num": 7,
+      "scraped": 10000,
+      "saved": 10000,
+      "timestamp": "2025-08-27T21:30:54.057552"
+    },
+    {
+      "batch_num": 8,
+      "scraped": 10000,
+      "saved": 10000,
+      "timestamp": "2025-08-27T21:32:18.379618"
+    },
+    {
+      "batch_num": 9,
+      "scraped": 10000,
+      "saved": 10000,
+      "timestamp": "2025-08-27T21:33:40.693802"
+    }
+  ],
+  "last_review_id": "0b60f0ce-5603-4f80-af24-8822c6f10d07"
+}

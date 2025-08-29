@@ -5,7 +5,14 @@
 
 **Target Audience**: IRCTC Development and Management Team
 
-**Current Status**: ✅ Dashboard operational with 90,000 reviews analyzed
+**Current Status**: ✅ FULLY DEPLOYED - Dashboard operational with 90,447 reviews analyzed
+
+### 🔗 Repository Information
+- **Portfolio Repository**: https://github.com/Vrajb24/Topic-Mining_on_IRCTC_Reviews (Clean for resume)
+- **Deployment Repository**: https://github.com/Vrajb24/irctc-dashbaord (Streamlit hosting)
+- **Live Dashboard**: https://irctc-analysis.streamlit.app
+- **Author**: Vraj B (vrajb24@iitk.ac.in)
+- **Institution**: IIT Kanpur
 
 ## Implementation Summary
 
