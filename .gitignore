@@ -59,3 +59,7 @@ docs/_build/
 
 # Deployment folder (separate repo)
 streamlit-deploy/
+
+# Documentation files (except README)
+*.md
+!README.md
